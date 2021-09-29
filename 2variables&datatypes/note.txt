@@ -1,0 +1,23 @@
+> var
+
+> = assign
+
+> var output ထုတ်ရင်"" မလိုပါ။
+
+> line by line
+
+> naming var -> space / special char / number / programming syntax data
+
+> programmatical expression
+
+> trouble shoot
+
+> dynamic type
+
+> built in function
+
+> string concatenate
+
+> integer 
+
+> other datatypes

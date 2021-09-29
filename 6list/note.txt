@@ -1,0 +1,49 @@
+- access list item
+- change list item 
+- add list item  
+- remove list item 
+- loop list item 
+- sort thislist.reverse()
+- []
+- အပြည့်ကိန်း
+- CRUD
+- built in 
+
+- tuple ()
+- set - frozen set - {}
+
+- dictionary = {} = {key :value}
+- key and value 
+- access item 
+- change item 
+- add item
+- remove 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+thisdict.pop("model")
+print(thisdict)
