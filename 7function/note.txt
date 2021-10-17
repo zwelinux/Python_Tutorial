@@ -1,0 +1,22 @@
+Function
+--------
+- code ရေးရတာလွယ် အောင် 
+- specfic task 
+
+phone -> call() -> calling 
+
+function create -> call 
+
+-> parameter 
+-> obj 
+-> argument 
+-> argument types 
+  - positional argument 
+  - default argument
+  - keyword argument 
+  - arbitary argument 
+
+- function 3 ခု
+- default argument
+
+inheritance 

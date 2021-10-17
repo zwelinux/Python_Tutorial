@@ -1,0 +1,27 @@
+class 
+-----
+- fun ထက်အလုပ်လုပ်ရတာ ပိုလွယ် 
+- phone class -> data -> attribute (name, model)
+              -> call() 
+              -> message() 
+
+function 
+--------
+fun name -> small letter -> message() -> print() 
+
+class
+-----
+class name -> cap letter -> Phone() 
+-> fun -> method()
+
+OOP 
+---
+
+java | c++ 
+
+python -> battery language 
+- abstraction -> ကိုယ်ဘာသာ class 
+- inheritance -> သူများ class 
+
+ruby 
+- OOP 4 concept 
